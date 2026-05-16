@@ -1,0 +1,9 @@
+combo_id,combo_name,move_1,move_2,move_3,move_4,move_5
+COMBO_DRAW_SLASH,蹭刀,直斩,回避,纳刀,,
+COMBO_DRAW_CHARGE,拔刀三蓄,蓄力斩,回避,纳刀,,
+COMBO_DRAW_STRONG,拔刀三蓄+强蓄,蓄力斩,强蓄力斩,回避,纳刀,
+COMBO_DRAW_STRONG_SWEEP,拔刀三蓄+强蓄+强横,蓄力斩,强蓄力斩,强横扫斩,回避,纳刀
+COMBO_FULL_CHARGE,完整蓄力连段,蓄力斩,强蓄力斩,真蓄力斩（强击）,回避,纳刀
+COMBO_SLINGER_TCS,直斩投射器真蓄,直斩,强化射击,真蓄力斩（强击）,回避,纳刀
+COMBO_CHARGE_SLINGER_TCS,三蓄投射器真蓄,蓄力斩,强化射击,真蓄力斩（强击）,回避,纳刀
+COMBO_ROLL_SLINGER_TCS,回避投射器真蓄,回避,强化射击,真蓄力斩（强击）,回避,纳刀

@@ -1,0 +1,11 @@
+hitzone_id,target,state,part,H_cut,H_dragon,H_soft_cut,weak_raw,weak_soft,Δ_soft%,备注
+TRAINING_POLE,训练场木桩,固定,木桩,80,30,85,Y,Y,6.25%,公式校验 / 4 武器对比
+RATH_HEAD,火龙,通常,头,65,30,73,Y,Y,12.31%,最优输出点
+RATH_HEAD_RAGE,火龙,愤怒,头,60,30,70,Y,Y,16.67%,怒后头部切断略降
+RATH_NECK,火龙,通常,颈,35,20,51,N,Y,45.71%,软化后进入弱特区间
+RATH_NECK_RAGE,火龙,愤怒,颈,35,20,51,N,Y,45.71%,怒后颈部打击略降
+RATH_BODY,火龙,通常,胴,25,20,43,N,N,72.00%,软化后仍低于 45
+RATH_WING,火龙,通常,翼,50,25,62,Y,Y,24.00%,弱特稳定触发
+RATH_WING_RAGE,火龙,愤怒,翼,20,25,40,N,N,100.00%,翼部怒后弱特不触发
+RATH_LEG,火龙,通常,脚,35,15,51,N,Y,45.71%,软化后进入弱特区间
+RATH_TAIL,火龙,通常,尾,45,20,58,Y,Y,28.89%,临界弱特部位
