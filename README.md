@@ -184,7 +184,7 @@ skill-priority-recommender/screenshots/dashboard.png
 
 After exporting the dashboard image, add it here:
 
-[Dashboard](https://www.notion.so)
+![Dashboard](./skill-priority-recommender/screenshots/dashboard.png)
 
 Dashboard
 
