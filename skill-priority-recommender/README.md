@@ -178,7 +178,6 @@ Example recommendation result from one Fatalis Blade test scenario:
 
 | Rank | Skill Upgrade | Gain |
 | --- | --- | --- |
-| ---: | --- | ---: |
 | 1 | 攻击 3→4 | +1.96% |
 | 2 | 看破 2→3 | +1.26% |
 | 3 | 集中 0→1 | +1.02% |
@@ -252,7 +251,7 @@ The workbook includes several checks:
 
 Suggested validation cases are documented in:
 
-notes/[validation_notes.md](http://notes.md)
+notes/[validation_notes.md](./notes/validation_notes.md)
 
 ---
 

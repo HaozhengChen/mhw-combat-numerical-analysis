@@ -176,17 +176,7 @@ mhw-combat-numerical-analysis/
 
 ## Dashboard Preview
 
-Recommended screenshot path:
-
-```
-skill-priority-recommender/screenshots/dashboard.png
-```
-
-After exporting the dashboard image, add it here:
-
 ![Dashboard](./skill-priority-recommender/screenshots/dashboard.png)
-
-Dashboard
 
 ---
 
